@@ -4,7 +4,7 @@
 
 선생님이 시험지 파일과 답안을 업로드하면, 학생은 링크 하나로 바로 시험에 응시할 수 있습니다.
 
-**[사이트 바로가기](https://kminsung2.github.io/SAT-Exam)**
+**[사이트 바로가기](https://kminsung2.github.io/SAT-Exam/exam.html)**
 
 ---
 
